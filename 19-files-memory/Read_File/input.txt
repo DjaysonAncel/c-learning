@@ -1,0 +1,4 @@
+Les roses sont rouges
+Le Soleil est blanc()
+LA PROGRAMMATION C'EST TROP BIEN!
+DIFFICILE A COMPRENDRE LE POINTEUR
