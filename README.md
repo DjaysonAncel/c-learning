@@ -13,25 +13,25 @@ les buffer overflows et autres vulnérabilités mémoire existent.
 ## Progression
 
 ### Bases
-- [ ] Introduction, variables, format specifiers, user input (0:00 → 1:06)
-- [ ] Shopping cart program ⭐
-- [ ] Mad libs game ⭐
+- [x] Introduction, variables, format specifiers, user input (0:00 → 1:06)
+- [x] Shopping cart program ⭐
+- [x] Mad libs game ⭐
 
 ### Logique et contrôle
-- [ ] Math functions, if statements, switches, logical operators (1:25 → 2:34)
-- [ ] Circle calculator, compound interest, weight converter, temperature, calculator ⭐
-- [ ] Functions, return, variable scope, prototypes (2:41 → 3:10)
-- [ ] While loops, for loops, break & continue, nested loops, random numbers (3:10 → 3:40)
-- [ ] Number guessing game, rock paper scissors ⭐
-- [ ] Banking program ⭐
+- [x] Math functions, if statements, switches, logical operators (1:25 → 2:34)
+- [x] Circle calculator, compound interest, weight converter, temperature, calculator ⭐
+- [x] Functions, return, variable scope, prototypes (2:41 → 3:10)
+- [x] While loops, for loops, break & continue, nested loops, random numbers (3:10 → 3:40)
+- [x] Number guessing game, rock paper scissors ⭐
+- [x] Banking program ⭐
 
 ### Mémoire et structures
-- [ ] Arrays, 2D arrays, arrays of strings (4:21 → 4:46)
-- [ ] Quiz game ⭐
-- [ ] Ternary operator, typedef, enums, structs, arrays of structs (5:13 → 5:48)
-- [ ] Pointers (5:54) ← chapitre le plus important
-- [ ] Write/Read files, malloc, calloc, realloc (6:02 → 6:31)
-- [ ] Digital Clock ⭐ — projet final
+- [x] Arrays, 2D arrays, arrays of strings (4:21 → 4:46)
+- [x] Quiz game ⭐
+- [x] Ternary operator, typedef, enums, structs, arrays of structs (5:13 → 5:48)
+- [x] Pointers ← chapitre le plus important et très compliqué
+- [x] Write/Read files, malloc, calloc, realloc très compliqué aussi
+- [x] Digital Clock ⭐ — projet final, j'avais besoin de la notion de la bibliothèque time.h
 
 ## Objectif
 Niveau C 5-6/10 d'ici août 2026 — base pour le reverse engineering et HTB.
